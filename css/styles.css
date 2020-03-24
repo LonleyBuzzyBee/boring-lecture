@@ -21,3 +21,7 @@
     font-family: georgia;
     margin-bottom: 50px;
   }
+  .background {
+    background-color: yellow;
+    border-style: solid;
+  }
